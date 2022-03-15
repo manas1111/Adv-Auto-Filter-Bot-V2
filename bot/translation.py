@@ -46,7 +46,7 @@ Team SiC 😉  </i>"""
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
     
-<b>➥ Maintainer</b> : <b><i><a href="https://t.me/chaiytanya">Chaitanya Gupta</a></i></b>
+<b>➥ Maintainer</b> : <b><i><a href="https://t.me/chaiytanya">Chaiytanya</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
